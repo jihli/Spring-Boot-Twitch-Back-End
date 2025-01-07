@@ -17,3 +17,16 @@
   - Improved Twitch content discoverability through intelligent recommendations.
   - Streamlined backend development using Gradle for dependency management and project builds.
   - Simplified deployment and testing processes with Docker Compose configurations.
+
+
+--------------------Resume Put-----------------
+**Twitch Recommendation Platform**  
+*Technologies: Spring Boot, RESTful APIs, Docker, Gradle, MySQL, React, Redux, JavaScript, AWS App Runner*
+
+- Developed a full-stack Twitch integration platform with a **React** frontend and **Spring Boot** backend, enabling personalized game and stream recommendations, user authentication, and favorites management.  
+- Integrated **Twitch API** with custom REST clients to fetch real-time data, implemented a recommendation engine to enhance content discoverability.  
+- Built a responsive and interactive user interface using **React**, **Redux**, and modern web technologies (**JavaScript, HTML, CSS**) for seamless user experience.  
+- Leveraged **Spring Security** for user authentication and authorization, and designed a relational database schema with **MySQL** for efficient data storage and retrieval.  
+- Containerized the application using **Docker**, orchestrated services with **Docker Compose**, and deployed the solution on **AWS App Runner** to ensure scalability and high availability.  
+- Delivered a modular, production-ready application, showcasing expertise in full-stack development, cloud deployment, and API integration.  
+
