@@ -1,5 +1,6 @@
 **Twitch Recommendation Platform**  
 *Technologies: Spring Boot, RESTful APIs, Docker, Gradle, MySQL*
+Demo video : https://drive.google.com/file/d/15BIf1xnQI4hd_g-rZrbCd4aG0ANzY6-A/view?usp=drive_link
 
 - **Overview**: Developed a backend platform for Twitch service integration, enabling user management, item recommendations, and favorite tracking through a scalable and maintainable microservice architecture.
   
