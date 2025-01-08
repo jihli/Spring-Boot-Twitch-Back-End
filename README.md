@@ -1,33 +1,35 @@
-**Twitch Recommendation Platform**  
-*Technologies: Spring Boot, RESTful APIs, Docker, Gradle, MySQL*
-Demo video : https://drive.google.com/file/d/15BIf1xnQI4hd_g-rZrbCd4aG0ANzY6-A/view?usp=drive_link
+**Project: Twitch+ - A Personalized Twitch Resources Recommendation Engine**
 
-- **Overview**: Developed a backend platform for Twitch service integration, enabling user management, item recommendations, and favorite tracking through a scalable and maintainable microservice architecture.
-  
-- **Key Features**:
-  - **User Management**: Implemented secure user authentication and management, ensuring data privacy and access control.
-  - **Item Management**: Designed and developed features for retrieving, searching, and managing Twitch items, including games, streams, and clips.
-  - **Favorites Tracking**: Enabled users to save and manage their favorite Twitch content for personalized experiences.
-  - **Recommendation System**: Built a recommendation engine leveraging Twitch API data to provide tailored game and stream suggestions.
-  - **External API Integration**: Integrated with Twitch APIs using custom-built `TwitchApiClient` and `TwitchService` for seamless data retrieval.
-  - **Database Integration**: Utilized MySQL for persistent data storage with optimized schema design for performance and scalability.
-  - **Global Exception Handling**: Ensured robust error handling with centralized exception management.
-  - **Scalability**: Designed the application with modularity and scalability in mind, leveraging Docker for containerized deployment.
+**Overview:**  
+Developed a scalable and user-centric full-stack web application that allows users to search for Twitch resources (streams, videos, clips) and receive personalized recommendations, leveraging modern web technologies and robust backend systems.
 
-- **Project Achievements**:
-  - Improved Twitch content discoverability through intelligent recommendations.
-  - Streamlined backend development using Gradle for dependency management and project builds.
-  - Simplified deployment and testing processes with Docker Compose configurations.
+---
 
+**Key Contributions and Achievements:**
 
---------------------Resume Put-----------------
-**Twitch Recommendation Platform**  
-*Technologies: Spring Boot, RESTful APIs, Docker, Gradle, MySQL, React, Redux, JavaScript, AWS App Runner*
+- **Frontend Development:**  
+  Designed and implemented a highly interactive and user-friendly web interface using **React.js** and **Ant Design**. Focused on creating a seamless user experience with responsive design principles to ensure accessibility across devices.
 
-- Developed a full-stack Twitch integration platform with a **React** frontend and **Spring Boot** backend, enabling personalized game and stream recommendations, user authentication, and favorites management.  
-- Integrated **Twitch API** with custom REST clients to fetch real-time data, implemented a recommendation engine to enhance content discoverability.  
-- Built a responsive and interactive user interface using **React**, **Redux**, and modern web technologies (**JavaScript, HTML, CSS**) for seamless user experience.  
-- Leveraged **Spring Security** for user authentication and authorization, and designed a relational database schema with **MySQL** for efficient data storage and retrieval.  
-- Containerized the application using **Docker**, orchestrated services with **Docker Compose**, and deployed the solution on **AWS App Runner** to ensure scalability and high availability.  
-- Delivered a modular, production-ready application, showcasing expertise in full-stack development, cloud deployment, and API integration.  
+- **Backend Engineering:**  
+  Built **RESTful APIs** using **Java Servlets**, enabling efficient communication between the frontend and backend. Integrated the **Twitch API** to fetch live data, which was processed and stored in a **MySQL database** for enhanced performance and data persistence.
 
+- **Authentication and User Features:**  
+  Implemented secure **login/logout functionality** using **JWT (JSON Web Tokens)** for user authentication. Added features like **favorite collection management**, allowing users to save and revisit their preferred Twitch resources.
+
+- **Recommendation System:**  
+  Researched and implemented multiple recommendation algorithms. Leveraged game metadata from Twitch resources to build a **content-based recommendation system**, enhancing the user experience by delivering tailored suggestions.
+
+- **Cloud Deployment:**  
+  Deployed the application on **AWS EC2**, ensuring high availability, stability, and scalability. Configured the cloud environment for continuous deployment and fault tolerance.
+
+---
+
+**Technical Highlights:**  
+- **Frontend:** React.js, Ant Design, HTML, CSS, JavaScript  
+- **Backend:** Java Servlets, RESTful APIs, Twitch API, MySQL  
+- **Authentication:** JWT-based secure login/logout  
+- **Algorithms:** Content-based recommendation system  
+- **Cloud & DevOps:** AWS EC2, deployment automation  
+
+**Impact:**  
+Successfully delivered a robust and scalable application with a rich feature set, improving user engagement and satisfaction. Demonstrated the ability to integrate diverse technologies into a cohesive product while maintaining code quality and project scalability.
