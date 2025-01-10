@@ -33,3 +33,14 @@ Developed a scalable and user-centric full-stack web application that allows use
 
 **Impact:**  
 Successfully delivered a robust and scalable application with a rich feature set, improving user engagement and satisfaction. Demonstrated the ability to integrate diverse technologies into a cohesive product while maintaining code quality and project scalability.
+
+
+
+
+### **Twitch+: A Personalized Twitch Resource Recommendation Engine**
+- Designed and developed a full-stack web application enabling users to search Twitch resources (streams, videos, clips) and receive personalized recommendations.
+- Created a user-friendly and responsive web interface using React and Ant Design for an enhanced user experience.
+- Built RESTful APIs with Java Servlets to fetch real-time Twitch resources via the Twitch API and store data in MySQL.
+- Implemented login, logout, and favorite collection functionalities for seamless user interaction.
+- Researched and implemented content-based recommendation algorithms by analyzing game data from Twitch resources.
+- Deployed the application on AWS EC2 to ensure scalability and stability.
